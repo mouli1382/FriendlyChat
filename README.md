@@ -1,1 +1,2 @@
-# Testing
+# FriendlyChat
+Trying Firebase code lab.
